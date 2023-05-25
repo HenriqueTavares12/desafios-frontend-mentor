@@ -11,7 +11,8 @@ Esta é uma solução para o [desafio do componente do cartão de visualização
 ![](./images/captura-mobile.PNG)
 
 ## Links
-
+- Código da solução: [https://github.com/HenriqueTavares12/desafios-frontend-mentor/tree/main/newbie/product-preview-card-component-main](https://github.com/HenriqueTavares12/desafios-frontend-mentor/tree/main/newbie/product-preview-card-component-main)
+- Clique para visualizar: [https://henriquetavares12.github.io/desafios-frontend-mentor/newbie/product-preview-card-component-main/](https://henriquetavares12.github.io/desafios-frontend-mentor/newbie/product-preview-card-component-main/)
  
 ## Construído com 
 - Marcação HTML5 semântica
