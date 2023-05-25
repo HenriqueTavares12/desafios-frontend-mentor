@@ -14,7 +14,7 @@ Esta é uma solução para o [desafio do componente de código QR no Frontend Me
 ## Links
 
 - Código da solução: [https://github.com/HenriqueTavares12/qr-code-component-main](https://github.com/HenriqueTavares12/qr-code-component-main)
-- Clique para visualizar: [https://henriquetavares12.github.io/qr-code-component-main/](https://henriquetavares12.github.io/qr-code-component-main/)
+- Clique para visualizar: [https://henriquetavares12.github.io/desafios-frontend-mentor/newbie/qr-code-component-main/](https://henriquetavares12.github.io/qr-code-component-main/)
 
 ## Meu processo
     Análise das cores e fontes definidas no design do desafio para construção da minha solução.
