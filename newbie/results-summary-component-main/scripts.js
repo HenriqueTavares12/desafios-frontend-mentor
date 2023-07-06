@@ -7,7 +7,8 @@ const resposta =  fetch('data.json')
 .then(res => {
    for(let i = 0; i < res.length; i++){
     category[i].innerHTML = res[i].category;
-    icon[i].src = res[i].icon; 
+    icon[i].src = res[i].icon;
+    icon[i].alt = res[i].category; 
     score[i].innerHTML = res[i].score;
    }
 })
