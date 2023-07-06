@@ -1,1 +1,0 @@
-## Desafios Newbie Frontend Mentor
