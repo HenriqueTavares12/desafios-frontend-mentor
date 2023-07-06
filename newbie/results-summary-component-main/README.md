@@ -11,9 +11,6 @@ Esta é uma solução para o [desafio do componente de resumo de resultados no F
    - [Meu processo](#meu-processo)
    - [O que aprendi](#o-que-aprendi)
 
-
-## Visão geral
-
 ### O desafio
 
 Os usuários devem ser capazes de:
@@ -23,9 +20,11 @@ Os usuários devem ser capazes de:
 
 ### Captura de tela
 - Visualização da captura da solução em mobile
+
 ![Visualização da captura da solução em mobile](./assets/images/captura-mobile.PNG)
 
 - Visualização da captura da solução em desktop
+
 ![Visualização da captura da solução em desktop](./assets/images/captura-desktop.PNG)
 
 
@@ -38,6 +37,7 @@ Os usuários devem ser capazes de:
 ## Meu processo
   Analisei todo o layout observando como montar os elementos na tela para chegar a uma solução bem
   semelhante ao do desafio proposto.
+
 ### Construído com
 
 - Marcação HTML5 semântica
