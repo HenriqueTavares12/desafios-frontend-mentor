@@ -22,16 +22,18 @@ Os usuários devem ser capazes de:
 - Ver os estados de foco para os elementos interativos na página
 
 ### Captura de tela
-
+- Visualização da captura da solução em mobile
 ![Visualização da captura da solução em mobile](./assets/images/captura-mobile.PNG)
 
+- Visualização da captura da solução em desktop
 ![Visualização da captura da solução em desktop](./assets/images/captura-desktop.PNG)
 
 
 ### Links
 
-- URL da solução: [Adicionar URL da solução aqui](https://your-solution-url.com)
-- Clique aqui para visualizar: [Adicione URL do site ao vivo aqui](https://your-live-site-url.com)
+- URL da solução: [https://github.com/HenriqueTavares12/desafios-frontend-mentor/tree/main/newbie/results-summary-component-main](https://github.com/HenriqueTavares12/desafios-frontend-mentor/tree/main/newbie/results-summary-component-main)
+
+- Clique aqui para visualizar: [https://henriquetavares12.github.io/desafios-frontend-mentor/newbie/results-summary-component-main/](https://henriquetavares12.github.io/desafios-frontend-mentor/newbie/results-summary-component-main/)
 
 ## Meu processo
   Analisei todo o layout observando como montar os elementos na tela para chegar a uma solução bem
