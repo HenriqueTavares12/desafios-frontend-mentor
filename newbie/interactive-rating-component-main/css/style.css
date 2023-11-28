@@ -1,0 +1,125 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Overpass:ital,wght@0,700;1,400&display=swap');
+
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+    font-family: 'Overpass', sans-serif;
+}
+
+body{
+    background-color:#000;
+}
+
+#main-container{
+    min-height: 100vh;
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.contents{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    width: 90%;
+    row-gap: 1.25em;
+}
+
+#second-container{
+    align-items: center;
+}
+
+#img-star{
+    width: 1.25em;
+}
+
+#img-ilustration{
+    width: 15em;
+}
+
+h2{
+    color: hsl(0, 0%, 100%);
+}
+
+.text{
+    color: hsl(217, 12%, 63%);
+    font-size: 15px;
+    width: 80%;
+}
+
+span{
+    color: hsl(25, 57%, 53%);
+}
+
+#container-buttons{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.buttons{
+    background-color: inherit;
+    width: 50px;
+    height: 50px;
+    border: none;
+    border-radius: 50%;
+    cursor: pointer;
+    color: hsl(217, 12%, 63%);
+}
+
+.buttons:hover{
+    background-color: hsl(25, 97%, 53%);
+    color: hsl(0, 0%, 100%);
+}
+
+.button-select{
+    background-color: hsl(217, 12%, 63%);
+    color: hsl(0, 0%, 100%);
+}
+
+#container-btn-submit{
+    display: flex;
+    justify-content:center ;
+    width: 80%;
+    margin: auto;
+}
+
+#btn-submit{
+   align-self: center;
+   width: 100%;
+   padding: 12px;
+   border-radius: 50px;
+   text-transform: uppercase;
+   background-color: hsl(25, 97%, 53%);
+   color: hsl(0, 0%, 100%);
+   cursor: pointer;
+}
+
+#btn-submit:hover{
+    background-color: hsl(0, 0%, 100%);
+    color: hsl(25, 97%, 53%);
+}
+
+.hide{
+    opacity: 0;
+    visibility: hidden;
+    display: none !important;
+}
+
+.show{
+    opacity: 1;
+    visibility: visible;
+}
+
+@media screen and (min-width: 391px) {
+    .contents{
+        display: flex;
+        flex-direction: column;
+        justify-content: space-around;
+        width: 25em;
+        row-gap: 1.25em;
+    }
+}
