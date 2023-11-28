@@ -11,8 +11,8 @@ Esta é uma solução para o [desafio do componente de classificação interativ
 ![](./images/captura-mobile.PNG)
 
 ## Links
-- Código da solução: [visualizar]()
-- Clique para visualizar: [visualizar]()
+- Código da solução: [visualizar](https://github.com/HenriqueTavares12/desafios-frontend-mentor/tree/main/newbie/interactive-rating-component-main)
+- Clique para visualizar: [visualizar](https://henriquetavares12.github.io/desafios-frontend-mentor/newbie/interactive-rating-component-main/)
  
 ## Construído com 
 - Marcação HTML5 semântica
